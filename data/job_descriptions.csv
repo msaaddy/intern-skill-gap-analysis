@@ -1,0 +1,6 @@
+job_id,job_title,description
+1,Data Scientist,"Python, SQL, Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow, Statistics"
+2,Data Analyst,"SQL, Python, Excel, Power BI, Tableau, Pandas, Statistics, Data Visualization"
+3,Machine Learning Engineer,"Python, Machine Learning, TensorFlow, Scikit-learn, NumPy, Pandas, Git, Docker"
+4,Web Developer,"HTML, CSS, JavaScript, React, Git, REST API, SQL"
+5,NLP Engineer,"Python, NLP, Machine Learning, Scikit-learn, Transformers, Pandas, NumPy, Git"

@@ -1,0 +1,11 @@
+intern_id,intern_name,skills,cluster,best_job,match_score,skill_gaps,training_recommendations
+1,Intern_1,"python, sql, pandas, excel",1,Data Analyst,0.4494002907790533,"data visualization, power bi, statistics, tableau","Data Visualization, Power BI, Statistics for Data Science, Tableau"
+2,Intern_2,"python, machine learning, pandas, numpy",0,Data Scientist,0.6260484739872728,"scikit-learn, sql, statistics, tensorflow","Scikit-learn, Advanced SQL, Statistics for Data Science, Deep Learning with TensorFlow"
+3,Intern_3,"java, sql, git, html, css",2,Web Developer,0.47680127489340207,"javascript, react, rest api","JavaScript, React, REST API Development"
+4,Intern_4,"python, sql, git, power bi",1,Data Analyst,0.4706799138751215,"data visualization, excel, pandas, statistics, tableau","Data Visualization, Advanced Excel, Pandas and Data Analysis, Statistics for Data Science, Tableau"
+5,Intern_5,"python, nlp, pandas, scikit-learn",0,NLP Engineer,0.6712546107421032,"git, machine learning, numpy, transformers","Git and GitHub, Machine Learning, NumPy, Transformers and LLMs"
+6,Intern_6,"javascript, html, css, react",2,Web Developer,0.7093033590457207,"git, rest api, sql","Git and GitHub, REST API Development, Advanced SQL"
+7,Intern_7,"python, excel, sql",1,Data Analyst,0.3969991732704272,"data visualization, pandas, power bi, statistics, tableau","Data Visualization, Pandas and Data Analysis, Power BI, Statistics for Data Science, Tableau"
+8,Intern_8,"python, machine learning, tensorflow",0,Data Scientist,0.6118996247457185,"numpy, pandas, scikit-learn, sql, statistics","NumPy, Pandas and Data Analysis, Scikit-learn, Advanced SQL, Statistics for Data Science"
+9,Intern_9,"sql, power bi, excel, tableau",1,Data Analyst,0.6777087698568085,"data visualization, pandas, python, statistics","Data Visualization, Pandas and Data Analysis, Advanced Python, Statistics for Data Science"
+10,Intern_10,"python, pandas, numpy, matplotlib",0,Data Scientist,0.3021287965840981,"machine learning, scikit-learn, sql, statistics, tensorflow","Machine Learning, Scikit-learn, Advanced SQL, Statistics for Data Science, Deep Learning with TensorFlow"

@@ -1,0 +1,11 @@
+intern_id,intern_name,skills
+1,Intern_1,"Python, SQL, Pandas, Excel"
+2,Intern_2,"Python, Machine Learning, Pandas, NumPy"
+3,Intern_3,"Java, SQL, Git, HTML, CSS"
+4,Intern_4,"Python, SQL, Git, Power BI"
+5,Intern_5,"Python, NLP, Pandas, Scikit-learn"
+6,Intern_6,"JavaScript, HTML, CSS, React"
+7,Intern_7,"Python, Excel, SQL"
+8,Intern_8,"Python, Machine Learning, TensorFlow"
+9,Intern_9,"SQL, Power BI, Excel, Tableau"
+10,Intern_10,"Python, Pandas, NumPy, Matplotlib"
